@@ -1,19 +1,19 @@
 {
   "keyValueEntries": [
     {
-      "name": "xxxxxxxxx.integration.password",
+      "name": "salesforce.integration.password",
       "value": "UserInt16ebGHrWlW5ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEF"
     },
     {
-      "name": "xxxxxxxxx.integration.client_secret",
+      "name": "salesforce.integration.client_secret",
       "value": "CB3BE9AF5706F5BA433E4A0FD1F8BFEAABCDEFGHIJKLMNOPQRSTUVWXYZABCDEF"
     },
     {
-      "name": "xxxxxxxxx.integration.client_id",
+      "name": "salesforce.integration.client_id",
       "value": "3MVG9OjW2TAjFKUugzLcidpil900W1bJABCDEFGHIJKLMNOPQRSTUVWXYZABCDEF"
     },
     {
-      "name": "xxxxxxxx.integration.username",
+      "name": "salesforce.integration.username",
       "value": "integrationuser@prueba.com.pre"
     }
   ],
