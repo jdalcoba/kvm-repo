@@ -1,0 +1,137 @@
+{
+  "keyValueEntries": [
+    {
+      "name": "log.info.request.headers.global",
+      "value": "NO"
+    },
+    {
+      "name": "log.loadconf__api-demo-orders-v1",
+      "value": "NO"
+    },
+    {
+      "name": "log.info.response.headers.global",
+      "value": "NO"
+    },
+    {
+      "name": "log.enabled.global",
+      "value": "YES"
+    },
+    {
+      "name": "log.error.request.headers.global",
+      "value": "YES"
+    },
+    {
+      "name": "log.erroronly.global",
+      "value": "YES"
+    },
+    {
+      "name": "log.error.request.formparams.global",
+      "value": "YES"
+    },
+    {
+      "name": "log.error.response.headers.global",
+      "value": "YES"
+    },
+    {
+      "name": "log.loadconf__api-thirdparty-businessentity-lead-v1",
+      "value": "NO"
+    },
+    {
+      "name": "log.loadconf__api-enterpriseservices-logger-gcp-v1",
+      "value": "NO"
+    },
+    {
+      "name": "log.loadconf__api-productoffering-offeringsserviceplans-quote-v1",
+      "value": "NO"
+    },
+    {
+      "name": "log.error.mask.global",
+      "value": "YES"
+    },
+    {
+      "name": "log.error.response.content.global",
+      "value": "YES"
+    },
+    {
+      "name": "log.loadconf__api-finance-bankinginformation-iban-v1",
+      "value": "NO"
+    },
+    {
+      "name": "log.loadconf__api-security-accesssecurity-authorization-v2",
+      "value": "NO"
+    },
+    {
+      "name": "log.error.request.queryparams.global",
+      "value": "YES"
+    },
+    {
+      "name": "log.loadconf__api-security-accesssecurity-authorization-v1",
+      "value": "NO"
+    },
+    {
+      "name": "log.info.mask.global",
+      "value": "YES"
+    },
+    {
+      "name": "log.info.response.content.global",
+      "value": "NO"
+    },
+    {
+      "name": "log.info.request.formparams.global",
+      "value": "NO"
+    },
+    {
+      "name": "log.info.request.content.global",
+      "value": "NO"
+    },
+    {
+      "name": "log.loadconf__api-sales-externalsales-sale-v1",
+      "value": "NO"
+    },
+    {
+      "name": "log.loadconf__api-thirdparty-businessentity-supplypoint-v1",
+      "value": "NO"
+    },
+    {
+      "name": "log.info.request.queryparams.global",
+      "value": "NO"
+    },
+    {
+      "name": "log.error.request.content.global",
+      "value": "YES"
+    },
+    {
+      "name": "log.loadconf__api-thirdparty-businessentity-customer-v1",
+      "value": "NO"
+    },
+    {
+      "name": "log.loadconf__api-sales-salescontracts-contract-v1",
+      "value": "NO"
+    },
+    {
+      "name": "log.info.verbose.global",
+      "value": "NO"
+    },
+    {
+      "name": "log.loadconf__api-enterpriseservices-apimanagement-apigee-v1",
+      "value": "NO"
+    },
+    {
+      "name": "log.loadconf__api-demo-users-v1",
+      "value": "NO"
+    },
+    {
+      "name": "log.error.verbose.global",
+      "value": "YES"
+    },
+    {
+      "name": "log.loadconf__api-businessutilities-information-address-v1",
+      "value": "NO"
+    },
+    {
+      "name": "log.loadconf__api-demo-orders-v2",
+      "value": "NO"
+    }
+  ],
+  "nextPageToken": ""
+}
