@@ -1,0 +1,21 @@
+{
+  "keyValueEntries": [
+    {
+      "name": "salesforce.integration.password",
+      "value": "UserInt16ebGHrWlW5HvlByG4QEJ7w4i"
+    },
+    {
+      "name": "salesforce.integration.client_secret",
+      "value": "CB3BE9AF5706F5BA433E4A0FD1F8BFEADA314D800D1FC22D98BCCF067B50E6FA"
+    },
+    {
+      "name": "salesforce.integration.client_id",
+      "value": "3MVG9OjW2TAjFKUugzLcidpil900W1bJbrmL00GNo0d0aWsXblFAcOxPXuovafLArWcU58RsSAIIqQrEJdGn4"
+    },
+    {
+      "name": "salesforce.integration.username",
+      "value": "integrationuser@totalenergies.com.pre"
+    }
+  ],
+  "nextPageToken": ""
+}
